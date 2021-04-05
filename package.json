@@ -1,6 +1,6 @@
 {
-    "title": "The Big Picture",
-    "name": "startbootstrap-the-big-picture",
+    "title": "Jeehyun Jenny Lee",
+    "name": "Research Projects",
     "version": "4.2.3",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
