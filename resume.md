@@ -12,9 +12,9 @@ jenny719@uw.edu / jjm719jenny@gmail.com
 
 I am a global communication and transnational digital culture researcher and educator at the University of Washington.
 
-##Work Experience:
+## Work Experience:
 
-##University of Washington (Seattle, Washington)
+## University of Washington (Seattle, Washington)
 
 - **Phd Student at the Department of Communication** (2020- expected 2024)
 - **Member of the CDRG Research/Writing Group** (2020-2024)
@@ -34,7 +34,7 @@ Responsibilities as Instructor of Record:
 
 [University of Washington](https://com.uw.edu/)
 
-##Korea University (Seoul, South Korea)
+## Korea University (Seoul, South Korea)
 
 - **M.A Student at the School of Media and communication** (2017-2019)
 - **Research Assistant to Dr. Ji Hoon Park** (2017-2019)
