@@ -1,8 +1,6 @@
 
 
-
-
-![UW](/assets/UW_rii090g6d.png)
+![UW](/assets/UW.png)
 
 **Jeehyun Jenny Lee**
 
