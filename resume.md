@@ -10,7 +10,9 @@ jenny719@uw.edu / jjm719jenny@gmail.com
 
 **About me**:
 
-I am a global communication and transnational digital culture researcher and educator at the University of Washington.
+> I am a global communication and transnational digital culture researcher and educator at the University of Washington.
+
+
 
 ## Work Experience:
 
