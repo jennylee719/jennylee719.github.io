@@ -1,10 +1,9 @@
-# [Start Bootstrap - The Big Picture](https://startbootstrap.com/template/the-big-picture/)
+# [Jeehyun Jenny Lee](https://startbootstrap.com/template/the-big-picture/)
 
-[The Big Picture](https://startbootstrap.com/template/the-big-picture/) is a responsive HTML template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). The template features a full page background image and a fixed bottom navigation bar.
+Hello, welcome to my website. Here you will be able to find information regarding some of my most recent projects.
 
-## Preview
+## Project overview
 
-[![The Big Picture Preview](https://assets.startbootstrap.com/img/screenshots/templates/the-big-picture.png)](https://startbootstrap.github.io/startbootstrap-the-big-picture/)
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-the-big-picture/)**
 
